@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Virtual_DAO</string>
+
+    <string-array name="nivel">
+        <item>Facil</item>
+        <item>Medio</item>
+        <item>Avanzado</item>
+    </string-array>
+    <string name="title_activity_direccion">Map</string>
+
+</resources>
